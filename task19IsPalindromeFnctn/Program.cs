@@ -4,6 +4,7 @@
 // 14212 -> нет
 // 12821 -> да
 // 23432 -> да
+// Use IsPalindrome
 
 Console.Write("И Снова Здравствуйте! Введите пятизначное число: ");
 int number = int.Parse(Console.ReadLine());
